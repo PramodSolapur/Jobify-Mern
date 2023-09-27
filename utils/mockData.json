@@ -1,0 +1,26 @@
+[
+  {
+    "company": "Cogidoo",
+    "position": "Help Desk Technician",
+    "jobLocation": "Vyksa",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "createdAt": "2022-07-25T21:26:23Z"
+  },
+  {
+    "company": "Google",
+    "position": "Help Desk Technician",
+    "jobLocation": "Vyksa",
+    "jobStatus": "declined",
+    "jobType": "part-time",
+    "createdAt": "2022-07-25T21:26:23Z"
+  },
+  {
+    "company": "Facebook",
+    "position": "Help Desk Technician",
+    "jobLocation": "Vyksa",
+    "jobStatus": "interview",
+    "jobType": "part-time",
+    "createdAt": "2022-07-25T21:26:23Z"
+  }
+]
